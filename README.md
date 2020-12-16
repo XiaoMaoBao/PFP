@@ -1,3 +1,3 @@
 # PFP
-Probability Functional Programming
+Probability Functional Programming -
 Simple program about Probability in Haskell
